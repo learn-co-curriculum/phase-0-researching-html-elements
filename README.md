@@ -1,1 +1,15 @@
-# researching-HTML-elements
+# Researching HTML elements
+
+The web is a constantly evolving entity. As we build more ambitious products or learn from our collective needs and mistakes the industry evolves the HTML specification by adding new elements or de-emphasizing old elements.
+
+We will inevitably come across un-familiar HTML elements or elements for which we do not fully understand the meaning and/or use. The best place to find these answer is the web itself, the open and free documentation on the web gets better every day.
+
+Let's say we come across an un-familiar element. We will use the `<samp>` element for our example. We can simply google `samp html element` and we will find anything we would ever need to know about the element.
+
+![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png) 
+
+If we select the second search result we will view the Mozilla Developer Network (**likely the best HTML, JS and CSS documentation source on the internet**) for the `<samp>` element.
+
+![](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
+
+ 
