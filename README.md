@@ -1,13 +1,59 @@
-# Researching HTML elements
+# Leveraging Additional HTML Documentation Resources
 
-The web is a constantly evolving entity. As we build more ambitious products or learn from our collective needs and mistakes the industry continually evolves the HTML specification by adding new elements or deprecating legacy elements.
+## Problem Statement
 
-We will inevitably come across unfamiliar HTML elements or elements for which we do not fully understand the meaning and/or use. The best place to find these answer is the web itself. The open and free documentation on the web gets better every day.
+When writing HTML you might encounter tags that that are new to you.  How are
+we going to level-up?  When searching for technical help we have to be careful
+about which sources we trust. This is a skill you will build over time, but
+here are some good practices.
 
-Let's say we come across an unfamiliar element. We will use the `<samp>` element for our example. We can simply google `samp html element,` and we will find anything we would ever need to know about the element.
+## Objectives
 
-![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png) 
+1. Use search engines as a resource to find information
+2. Observe and identify relevant resources
+3. Compare multiple resources to find the best source
 
-If we select the second search result, we will view the Mozilla Developer Network (**likely the best HTML, JS and CSS documentation source on the internet**) documentation for the `<samp>` element.
+
+## Use Search Engines as a Resources to Find Information
+
+Let's say in your research, you come across an unfamiliar element like
+`<samp>`. We can google `samp html element,` and we will find an endless list
+of results to choose from. Sometimes resources can be outdated, biased, or
+inaccurate. It's important to filter through the results to find the best fit.
+
+![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png)
+
+## Observe And Identify Resources Relevant Information
+
+Your instinct might be to open the first result. You should be pickier.
+Sometimes the result has "gamed" the search engine. We recommend that you open
+the top five results and review them critically.
+
+We also recommend that you trust sites that are affiliated with building or
+defining the technologies, more than blogs or other resources. In the HTML
+world, the Mozilla Developer Network (MDN) is an extremely trustworthy site.
+In fact, it's likely the best HTML, JS and CSS documentation source on the
+internet.
 
 ![](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
+
+## Compare Multiple Resources To Find The Best Source
+
+If we go back to the search results, you'll see that the first result in this
+case is `W3schools`. A site, like W3schools, for example, can be used as an
+additional resource for garnering understanding. It even includes interactive
+examples, creating a sandbox environment for experimentation.
+
+In this case, between MDN and W3schools, you should get a good sense of how to
+use the `<samp>` element.
+
+## Conclusion
+
+The web is a constantly evolving entity. As we build more ambitious products or
+learn from our collective needs and mistakes, the industry will continually
+evolve the HTML specifications by adding new elements or deprecating legacy
+elements. Researching and referencing documentation or other coding resources
+can be scary at first, but it's a common practice for developers, and another
+skill set that you'll become comfortable with over time. Don't be afraid to
+implement these searches--open source and free resources on the web get better
+every day. It is normal to not know or fully understand them all!
