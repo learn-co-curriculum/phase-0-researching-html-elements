@@ -3,9 +3,9 @@
 ## Problem Statement
 
 When writing HTML you might encounter tags that that are new to you.  How are
-we going to level-up?  When searching for technical help we have to be careful
+we going to level-up?  When searching for technical help, we have to be careful
 about which sources we trust. This is a skill you will build over time, but
-here are some good practices.
+we'll model some good practices in this README.
 
 ## Objectives
 
@@ -16,7 +16,7 @@ here are some good practices.
 
 ## Use Search Engines as a Resources to Find Information
 
-Let's say in your research, you come across an unfamiliar element like
+Let's say in your research, you come across an unfamiliar HTML element like
 `<samp>`. We can google `samp html element,` and we will find an endless list
 of results to choose from. Sometimes resources can be outdated, biased, or
 inaccurate. It's important to filter through the results to find the best fit.
@@ -26,11 +26,11 @@ inaccurate. It's important to filter through the results to find the best fit.
 ## Observe And Identify Resources Relevant Information
 
 Your instinct might be to open the first result. You should be pickier.
-Sometimes the result has "gamed" the search engine. We recommend that you open
-the top five results and review them critically.
+Sometimes the result has "gamed" the search engine and unfairly influenced the ranking.
+We recommend that you open the top **five** results and review them critically.
 
 We also recommend that you trust sites that are affiliated with building or
-defining the technologies, more than blogs or other resources. In the HTML
+defining the technologies more than blogs or other resources. In the HTML
 world, the Mozilla Developer Network (MDN) is an extremely trustworthy site.
 In fact, it's likely the best HTML, JS and CSS documentation source on the
 internet.
@@ -51,9 +51,12 @@ use the `<samp>` element.
 
 The web is a constantly evolving entity. As we build more ambitious products or
 learn from our collective needs and mistakes, the industry will continually
-evolve the HTML specifications by adding new elements or deprecating legacy
-elements. Researching and referencing documentation or other coding resources
-can be scary at first, but it's a common practice for developers, and another
-skill set that you'll become comfortable with over time. Don't be afraid to
-implement these searches--open source and free resources on the web get better
-every day. It is normal to not know or fully understand them all!
+update the HTML specifications.
+
+Researching referencing documentation
+can be scary at first, but it's a primary skill for developers. Don't be afraid to
+practice technical searches. It's a _skill_ that you will get better at with practice.
+
+Most importantly, don't feel like _not knowing everything by heart_ means you can't
+be a developer. The greatest developers we know are constantly admitting what they
+don't know, finding the latest news, using the answer they found, and moving on.
