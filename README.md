@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-When writing HTML you might encounter tags that that are new to you.  How are
+When writing HTML you might encounter tags that are new to you.  How are
 we going to level-up?  When searching for technical help, we have to be careful
 about which sources we trust. This is a skill you will build over time, but
 we'll model some good practices in this README.
