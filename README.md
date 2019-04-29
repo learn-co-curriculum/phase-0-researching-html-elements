@@ -14,7 +14,7 @@ we'll model some good practices in this README.
 3. Compare multiple resources to find the best source
 
 
-## Use Search Engines as a Resources to Find Information
+## Use Search Engines as a Resource to Find Information
 
 Let's say in your research, you come across an unfamiliar HTML element like
 `<samp>`. We can google `samp html element,` and we will find an endless list
