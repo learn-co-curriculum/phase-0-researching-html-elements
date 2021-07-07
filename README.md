@@ -1,4 +1,4 @@
-# Leveraging Additional HTML Documentation Resources
+# Researching HTML Elements
 
 ## Learning Goals
 
