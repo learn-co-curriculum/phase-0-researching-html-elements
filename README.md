@@ -8,33 +8,33 @@
 
 ## Introduction
 
-When writing HTML you might encounter tags that are new to you.  How are
-we going to level-up?  When searching for technical help, we have to be careful
-about which sources we trust. This is a skill you will build over time, but
-we'll model some good practices in this README.
+When writing HTML you might encounter tags that are new to you. How are we going
+to level-up? When searching for technical help, we have to be careful about
+which sources we trust. This is a skill you will build over time, but we'll
+model some good practices in this README.
 
 ## Use Search Engines as a Resource to Find Information
 
 Let's say in your research, you come across an unfamiliar HTML element like
-`<samp>`. We can google `samp html element,` and we will find an endless list
-of results to choose from. Sometimes resources can be outdated, biased, or
+`<samp>`. We can google `samp html element,` and we will find an endless list of
+results to choose from. Sometimes resources can be outdated, biased, or
 inaccurate. It's important to filter through the results to find the best fit.
 
-![](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png)
+![html element search](https://curriculum-content.s3.amazonaws.com/web-development/html-element-search.png)
 
 ## Identify Relevant Resources
 
 Your instinct might be to open the first result. You should be pickier.
-Sometimes the result has "gamed" the search engine and unfairly influenced the ranking.
-We recommend that you open the top **five** results and review them critically.
+Sometimes the result has "gamed" the search engine and unfairly influenced the
+ranking. We recommend that you open the top **five** results and review them
+critically.
 
 We also recommend that you trust sites that are affiliated with building or
-defining the technologies more than blogs or other resources. In the HTML
-world, the Mozilla Developer Network (MDN) is an extremely trustworthy site.
-In fact, it's likely the best HTML, JS and CSS documentation source on the
-internet.
+defining the technologies more than blogs or other resources. In the HTML world,
+the Mozilla Developer Network (MDN) is an extremely trustworthy site. In fact,
+it's likely the best HTML, JS and CSS documentation source on the internet.
 
-![](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
+![mdn samp page](https://curriculum-content.s3.amazonaws.com/web-development/samp-mdn-page.png)
 
 ## Compare Multiple Resources to Find the Best Source
 
@@ -56,6 +56,7 @@ Researching referencing documentation can be scary at first, but it's a primary
 skill for developers. Don't be afraid to practice technical searches. It's a
 _skill_ that you will get better at with practice.
 
-Most importantly, don't feel like _not knowing everything by heart_ means you can't
-be a developer. The greatest developers we know are constantly admitting what they
-don't know, finding the latest news, using the answer they found and moving on.
+Most importantly, don't feel like _not knowing everything by heart_ means you
+can't be a developer. The greatest developers we know are constantly admitting
+what they don't know, finding the latest news, using the answer they found and
+moving on.
